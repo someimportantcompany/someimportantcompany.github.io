@@ -1,3 +1,7 @@
+---
+title: Some Important Company
+---
+
 # Some Important Company
 {: .fs-9 }
 
