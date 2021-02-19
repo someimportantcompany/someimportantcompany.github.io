@@ -3,3 +3,31 @@ exclude:
   - README.md
 heading_anchors: false
 search_enabled: false
+
+homepage-links:
+  active:
+    - >
+      **[dynazord](https://someimportantcompany.com/dynazord/):**
+      DynamoDB NodeJS ORM, inspired by similar ORMs like Mongoose & Sequelize.
+    - >
+      **[github-actions-slack-message](https://github.com/someimportantcompany/github-actions-slack-message/):**
+      Send messages to Slack from GitHub Actions.
+    - >
+      **[redyn](https://someimportantcompany.com/redyn/):**
+      Promise-first Redis-implementation for NodeJS backed by DynamoDB.
+    - >
+      **[status-page](https://github.com/someimportantcompany/status-page/):**
+      An open-source static-driven Status Page for your projects.
+    - >
+      **[yoem](https://github.com/someimportantcompany/yoem/):**
+      Unopinionated self-hosted oembed URL expansion.
+  deprecated:
+    - >
+      **[cronfile](https://github.com/someimportantcompany/cronfile/):**
+      Javascript-based CRON process.
+    - >
+      **[koa-graceful-shutdown](https://github.com/someimportantcompany/koa-graceful-shutdown/):**
+      Ensure that during shutdown Koa returns correctly with a 503.
+    - >
+      **[vedette](https://github.com/someimportantcompany/vedette/):**
+      Self-managed Sentry scope support.
